@@ -1,4 +1,4 @@
-package com.codepracto.corejava.abstractClass;
+ package com.codepracto.corejava.abstractClass;
 
 public class DellLaptop extends Laptop {
 
